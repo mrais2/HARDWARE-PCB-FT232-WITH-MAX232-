@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+3.3V Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=+3.3V Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=+3.3V Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=+3.3V Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=+1.8V Pin=FB1-1
+Removed Pin From Net: NetName=+1.8V Pin=FB2-1
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Change Component Designator: OldDesignator=D2 NewDesignator=D?
+Change Component Designator: OldDesignator=FB3 NewDesignator=FB?
+Change Component Designator: OldDesignator=R4 NewDesignator=R?
+Change Component Designator: OldDesignator=R5 NewDesignator=R?
+Added Pin To Net: NetName=+3.3V Pin=FB1-1
+Added Pin To Net: NetName=+3.3V Pin=FB2-1
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetFB3_1 New Net Name=NetFB?_1
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR?_2
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR?_2
+Added Room: Name=FT4232

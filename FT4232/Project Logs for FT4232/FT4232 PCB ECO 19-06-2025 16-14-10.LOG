@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=USB_P Pin=R5-2
+Added Pin To Net: NetName=USB_P Pin=U10-8
+Add Differential Pair: Number of nets in differential pair USB_M is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB is 1 instead of 2

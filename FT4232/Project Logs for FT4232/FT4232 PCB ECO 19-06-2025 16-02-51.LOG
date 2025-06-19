@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetD1_2 New Net Name=USB_M
+Change Net Name : Old Net Name=NetD2_2 New Net Name=USB_P
+Add Differential Pair: Number of nets in differential pair USB_M is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB is 1 instead of 2
+Added Member To Class: ClassName=FT4232 Member=Component D1 PGB1010603
