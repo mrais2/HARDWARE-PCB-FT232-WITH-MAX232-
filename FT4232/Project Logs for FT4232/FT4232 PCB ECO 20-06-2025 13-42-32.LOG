@@ -1,0 +1,23 @@
+Change Component Comment : Designator=C17 Old Comment=1uF/25V New Comment=0.1uF/25V
+Change Component Comment : Designator=C18 Old Comment=1uF/25V New Comment=0.1uF/25V
+Change Component Comment : Designator=C19 Old Comment=1uF/25V New Comment=0.1uF/25V
+Change Component Comment : Designator=C20 Old Comment=1uF/25V New Comment=0.1uF/25V
+Change Component Comment : Designator=C21 Old Comment=1uF/25V New Comment=0.1uF/25V
+Change Component Comment : Designator=C22 Old Comment=1uF/25V New Comment=0.1uF/25V
+Change Component Comment : Designator=C23 Old Comment=1uF/25V New Comment=0.1uF/25V
+Change Component Comment : Designator=C24 Old Comment=1uF/25V New Comment=0.1uF/25V
+Change Component Comment : Designator=C25 Old Comment=1uF/25V New Comment=0.1uF/25V
+Change Component Comment : Designator=C26 Old Comment=1uF/25V New Comment=0.1uF/25V
+Change Component Comment : Designator=IC1 Old Comment=MAX232EESE+T New Comment=MAX3232ESE
+Change Component Comment : Designator=IC2 Old Comment=MAX232EESE+T New Comment=MAX3232ESE
+Added Component: Designator=IC?(SOIC127P600X175-16N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX3232ESE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3232ESE?qs=ZENAYvsrzLoznpazQOaG5Q%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=FT4232 Member=Component C18 0.1uF/25V
+Added Member To Class: ClassName=FT4232 Member=Component IC? MAX3232ESE
